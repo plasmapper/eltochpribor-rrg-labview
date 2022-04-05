@@ -15,9 +15,12 @@ LabVIEW 2015 and higher.
 ## Dependencies
 [Modbus Client Library](https://github.com/plasmapper/modbus-client-labview)
 
+## Extra
+[GCF Calculator](https://github.com/plasmapper/gcf-calculator-labview) library can be used to calculate actual flow rate when using gas/mixture other than calibrated.
+
 ## Examples
 ### Eltochpribor RRG.vi
-Simple appilcation, demonstrating all library features.
+Example VI that demonstrates all library features.
 
 ## Software and Documentation
 [RRG-12](https://eltochpribor.ru/upload/zip/%D0%A0%D0%A0%D0%93-12.rar)  
