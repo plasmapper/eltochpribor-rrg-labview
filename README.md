@@ -5,12 +5,10 @@ LabVIEW instrument driver for Eltochpribor RRG mass flow controler.
 LabVIEW 2015 and higher.
 
 ## Features
-1. Read/configure flow rate setpoint.
-2. Read/configure valve mode.
-3. Read measured flow rate.
-4. Zero measured flow rate.
-5. Read/configure communication address.
-6. Read/configure communication baud rate.
+1. Read/configure flow rate setpoint, valve mode, baudrate and Modbus address.
+2. Read measured flow rate.
+3. Zero measured flow rate.
+4. Automatic reconnection to device.
 
 ## Dependencies
 [Modbus Client Library](https://github.com/plasmapper/modbus-client-labview)
