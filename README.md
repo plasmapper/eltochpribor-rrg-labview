@@ -1,6 +1,8 @@
 # Eltochpribor RRG Driver for LabVIEW.
 LabVIEW instrument driver for Eltochpribor RRG mass flow controler.
 
+Tested on RRG-20.
+
 ## Requirements
 LabVIEW 2015 and higher.
 

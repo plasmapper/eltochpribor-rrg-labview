@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 20:08:36" Modified_Date="2022-04-07 20:26:55" Creator="Researcher" Comments="" ID="fbf671240229614d221913584b27df6b">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 20:08:36" Modified_Date="2022-04-15 20:34:48" Creator="Researcher" Comments="" ID="58d5ef252c7f7e8e7c746d08cbd1b77b">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_Eltochpribor_RRG</Package_File_Name>
     <Library_Version>1.0.0.1</Library_Version>
@@ -31,6 +31,8 @@
     <Description>
       <One_Line_Description_Summary>LabVIEW instrument driver for Eltochpribor RRG mass flow controler</One_Line_Description_Summary>
       <Description>LabVIEW instrument driver for Eltochpribor RRG mass flow controler.
+
+Tested on RRG-20.
 
 Requirements:
 LabVIEW 2015 and higher.
@@ -295,7 +297,7 @@ Features:
         <Path>Public\Data</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2340DD7A976CEFCE018DDA1DD2F36D77</GUID>
+      <GUID>B3A7011AE5C4936D56836B7B30706B49</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -330,7 +332,7 @@ Features:
         <Path>Public\Utility\Zero Measured Flow Rate.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3750366C0A19B139623DCE34B5CFBC07</GUID>
+      <GUID>19C5F39CE433AC0A7BB5E89A936B2345</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -463,7 +465,7 @@ Features:
         <Path>Public\Configure\Configure Flow Rate Setpoint.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E2D6D2974E63110622020AEC49AFB0D7</GUID>
+      <GUID>F59554C11DB716FEE6C01F1CC3FD0BB7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -498,7 +500,7 @@ Features:
         <Path>Public\Data\Read Measured Flow Rate.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>35DC4BAE6F8865AACEB2748ED1585C6F</GUID>
+      <GUID>3CE93D8EA5D91AACB51F4D90A0A7F61F</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
