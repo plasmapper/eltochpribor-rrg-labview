@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 20:08:36" Modified_Date="2022-04-15 20:34:48" Creator="Researcher" Comments="" ID="58d5ef252c7f7e8e7c746d08cbd1b77b">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 20:08:36" Modified_Date="2022-04-20 17:55:03" Creator="Researcher" Comments="" ID="6c360f023c41fb0271b49471f3726442">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_Eltochpribor_RRG</Package_File_Name>
     <Library_Version>1.0.0.1</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
-    <Library_Output_Folder>..\build\eltochpribor-rrg-labview</Library_Output_Folder>
+    <Library_Output_Folder>..\build</Library_Output_Folder>
     <Company_Name>plasmapper</Company_Name>
     <Library_Summary/>
     <Library_License>MIT</Library_License>
@@ -297,7 +297,7 @@ Features:
         <Path>Public\Data</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B3A7011AE5C4936D56836B7B30706B49</GUID>
+      <GUID>E520F1F9D40DF1FD3C9C6069B6E0F036</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -332,7 +332,7 @@ Features:
         <Path>Public\Utility\Zero Measured Flow Rate.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>19C5F39CE433AC0A7BB5E89A936B2345</GUID>
+      <GUID>BA032E46D15D555FE339BC9A863166E9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -465,7 +465,7 @@ Features:
         <Path>Public\Configure\Configure Flow Rate Setpoint.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F59554C11DB716FEE6C01F1CC3FD0BB7</GUID>
+      <GUID>C72359692FCA9B275FFB7CA6AA539F0C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -500,7 +500,7 @@ Features:
         <Path>Public\Data\Read Measured Flow Rate.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3CE93D8EA5D91AACB51F4D90A0A7F61F</GUID>
+      <GUID>EF186595C7FD28EB26186D95E29A876C</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
