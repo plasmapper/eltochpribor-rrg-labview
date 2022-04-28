@@ -1,27 +1,27 @@
-# Eltochpribor RRG Library for LabVIEW.
-LabVIEW instrument driver for Eltochpribor RRG mass flow controler.
+[English](README_EN.md)
+# Библиотека LabVIEW для регуляторов расхода газа Элточприбор РРГ.
 
-Tested on RRG-20.
+Проверено на РРГ-20.
 
-## Requirements
-LabVIEW 2015 and higher.
+## Требования
+LabVIEW 2015 и выше.
 
-## Features
-1. Read/configure flow rate setpoint, valve mode, baudrate and Modbus address.
-2. Read measured flow rate.
-3. Zero measured flow rate.
-4. Automatic reconnection to device.
+## Возможности
+1. Чтение/изменение уставки расхода газа, режима работы клапана, скорости связи и адреса Modbus.
+2. Чтение измеренного расхода газа.
+3. Обнуление измеренного расхода газа.
+4. Автоматическое переподключение к устройству.
 
-## Dependencies
+## Зависимости
 [Modbus Client Library](https://github.com/plasmapper/modbus-client-labview)
 
-## Extra
-[GCF Calculator Library](https://github.com/plasmapper/gcf-calculator-labview) can be used to calculate actual flow rate when using gas/mixture other than calibrated.
+## Дополнительно
+[GCF Calculator Library](https://github.com/plasmapper/gcf-calculator-labview) может быть использована для расчета расхода газа при отличии используемого газа/смеси от калибровочного.
 
-## Examples
+## Примеры
 ### Eltochpribor RRG.vi
-Example VI that demonstrates all library features.
+Пример, демонстрирующий все возможности библиотеки.
 
-## Software and Documentation
-[RRG-12](https://eltochpribor.ru/upload/zip/%D0%A0%D0%A0%D0%93-12.rar)  
-[RRG-20](https://drive.google.com/file/d/1ov4l3L0pDe8frplhclJo1kfsVCZQ7Hfq/view?usp=sharing)  
+## Программное обеспечение и документация
+[РРГ-12](https://eltochpribor.ru/upload/zip/%D0%A0%D0%A0%D0%93-12.rar)  
+[РРГ-20](https://drive.google.com/file/d/1ov4l3L0pDe8frplhclJo1kfsVCZQ7Hfq/view?usp=sharing)  
