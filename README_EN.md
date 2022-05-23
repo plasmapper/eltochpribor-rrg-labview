@@ -1,5 +1,5 @@
-# Eltochpribor RRG Library for LabVIEW.
-LabVIEW instrument driver for Eltochpribor RRG mass flow controllers.
+# Eltochpribor RRG Series Library for LabVIEW.
+LabVIEW instrument driver for Eltochpribor RRG series mass flow controllers.
 
 Tested on RRG-20.
 
