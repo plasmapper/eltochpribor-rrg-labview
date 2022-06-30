@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 20:08:36" Modified_Date="2022-05-23 13:19:00" Creator="Researcher" Comments="" ID="afbc9c346b60e19d69d7315234d912cc">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 20:08:36" Modified_Date="2022-06-30 20:58:02" Creator="Researcher" Comments="" ID="6e75a7f9e6d98faf7f2bd35e53eaff0a">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_Eltochpribor_RRG</Package_File_Name>
     <Library_Version>1.0.0.2</Library_Version>
@@ -32,7 +32,7 @@
       <One_Line_Description_Summary>LabVIEW instrument driver for Eltochpribor RRG series mass flow controlers</One_Line_Description_Summary>
       <Description>LabVIEW instrument driver for Eltochpribor RRG series mass flow controlers.
 
-Tested on RRG-20.
+Tested on Eltochpribor RRG-20.
 
 Features:
 1. Get/set flow rate setpoint.
@@ -294,7 +294,7 @@ Features:
         <Path>Public\Data</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>68AD3A25BBB15D3C9E45593B6581A1C6</GUID>
+      <GUID>96B625980B2C0DA59ECDA2833FE1B4F7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -329,7 +329,7 @@ Features:
         <Path>Public\Utility\Zero Measured Flow Rate.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EBED4D9000343BBB1F84744F2386660B</GUID>
+      <GUID>160D01168F22F20B76E63D7259B9403E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -462,7 +462,7 @@ Features:
         <Path>Public\Configure\Configure Flow Rate Setpoint.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7329C12A87665879E3C270C23A5F5876</GUID>
+      <GUID>A63E2282C1620B807A495582935D20C9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -497,7 +497,7 @@ Features:
         <Path>Public\Data\Read Measured Flow Rate.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C329ABBE78754F036D385EE4ADDA0620</GUID>
+      <GUID>F828FD26B039323E3C6ADF211E3FF3EE</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
