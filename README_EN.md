@@ -6,6 +6,8 @@ Tested on Eltochpribor RRG-20.
 ## Requirements
 LabVIEW 2015 and higher.
 
+[Modbus Client Library](https://github.com/plasmapper/modbus-client-labview) ([VIPM package](https://www.vipm.io/package/plasmapper_lib_pl_modbus_client/))
+
 ## Installation
 [VIPM package](https://www.vipm.io/package/plasmapper_lib_pl_eltochpribor_rrg/)
 
