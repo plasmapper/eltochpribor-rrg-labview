@@ -6,6 +6,8 @@
 ## Требования
 LabVIEW 2015 и выше.
 
+[Modbus Client Library](https://github.com/plasmapper/modbus-client-labview) ([VIPM package](https://www.vipm.io/package/plasmapper_lib_pl_modbus_client/))
+
 ## Установка
 [VIPM package](https://www.vipm.io/package/plasmapper_lib_pl_eltochpribor_rrg/)
 
@@ -14,9 +16,6 @@ LabVIEW 2015 и выше.
 2. Чтение измеренного расхода газа.
 3. Обнуление измеренного расхода газа.
 4. Автоматическое переподключение к устройству.
-
-## Зависимости
-[Modbus Client Library](https://github.com/plasmapper/modbus-client-labview)
 
 ## Дополнительно
 [GCF Calculator Library](https://github.com/plasmapper/gcf-calculator-labview) может быть использована для расчета расхода газа при отличии используемого газа/смеси от калибровочного.
