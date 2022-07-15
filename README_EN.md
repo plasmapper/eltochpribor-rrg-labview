@@ -6,6 +6,9 @@ Tested on Eltochpribor RRG-20.
 ## Requirements
 LabVIEW 2015 and higher.
 
+## Installation
+[VIPM package](https://www.vipm.io/package/plasmapper_lib_pl_eltochpribor_rrg/)
+
 ## Features
 1. Read/configure flow rate setpoint, valve mode, baudrate and Modbus address.
 2. Read measured flow rate.
