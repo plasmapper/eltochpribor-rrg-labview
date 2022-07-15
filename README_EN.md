@@ -17,9 +17,6 @@ LabVIEW 2015 and higher.
 3. Zero measured flow rate.
 4. Automatic reconnection to device.
 
-## Dependencies
-[Modbus Client Library](https://github.com/plasmapper/modbus-client-labview)
-
 ## Extra
 [GCF Calculator Library](https://github.com/plasmapper/gcf-calculator-labview) can be used to calculate actual flow rate when using gas/mixture other than calibrated.
 
