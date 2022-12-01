@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 20:08:36" Modified_Date="2022-07-05 16:41:10" Creator="Researcher" Comments="" ID="1beebbb4a62a84d9544464565398c3e5">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 20:08:36" Modified_Date="2022-12-01 19:55:25" Creator="Researcher" Comments="" ID="347d383c807a89cc70926411f2e9ea08">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_Eltochpribor_RRG</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.0.1.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\build</Library_Output_Folder>
@@ -44,7 +44,8 @@ Features:
       <Copyright/>
       <Packager>plasmapper</Packager>
       <URL>https://github.com/plasmapper/eltochpribor-rrg-labview</URL>
-      <Release_Notes>Initial release.</Release_Notes>
+      <Release_Notes>Changed
+- Baud rate and address setting in the example VI.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -294,7 +295,7 @@ Features:
         <Path>Public\Data</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8457DE6C1949DF6B9EB268BEFAA2E0EA</GUID>
+      <GUID>ED9C509750CBFBB53FF96E499FC71FE8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -329,7 +330,7 @@ Features:
         <Path>Public\Utility\Zero Measured Flow Rate.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5F5D1F5B7BE49B63734FFB2723CD4872</GUID>
+      <GUID>A267AC0913BCB84235199E2D0CED7757</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -462,7 +463,7 @@ Features:
         <Path>Public\Configure\Configure Flow Rate Setpoint.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FA202ECF4714973672C20197A58B4C6C</GUID>
+      <GUID>72FB7945C3465662B77858BC7DCA7087</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -497,7 +498,7 @@ Features:
         <Path>Public\Data\Read Measured Flow Rate.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FCF76DD4616B5BFCA1EE8783F771D4A3</GUID>
+      <GUID>1D99981E4D3931B1B62B4F4932C3D3D1</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
